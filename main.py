@@ -14,8 +14,8 @@ pkill -f name-of-the-python-script
 """
 
 #no constants in python, hence all are CAPS to indicate constant in python
-PROJECT_NAME = 'insert folder name here'
-HOMEPAGE = 'insert your website here'
+PROJECT_NAME = 'OldWebddd'
+HOMEPAGE = 'https://www.spacejam.com/archive/spacejam/movie/jam.htm'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
